@@ -1,4 +1,4 @@
-# HTML & CSS Mobile UI Layout _ CVS Clone - YouTube
+# HTML & CSS Mobile UI Layout CVS Clone - YouTube
 
 ## traversy media
 
@@ -16,3 +16,8 @@ git push -u origin master
 git push -u origin develop
 git push -u origin staging
 ```
+
+fontawesome cdn, html, copy & paste</br>
+fonts.google.com, roboto, copy link
+
+css tricks sticky footer
