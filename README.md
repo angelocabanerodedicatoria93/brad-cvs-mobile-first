@@ -8,7 +8,6 @@ README.md</br>
 
 ```bash
 git init
-npm init -y
 git add .
 git commit -m 'initial commit'
 git remote add origin git@github.com:angelocabanerodedicatoria93/brad-cvs-mobile-first.git
